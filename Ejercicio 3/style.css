@@ -1,0 +1,56 @@
+/* Crea una entrada de blog sobre la ciudad de la que eres. Debe tener un título, algo de texto, una lista, enlaces e imágenes. Ten cuenta de organizar el contenido de etiquetas para órdenes el contenido y que sea a futuro más sencillo aplicar estilos. */
+
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 50px;
+}
+
+
+#miImagen {
+    width: 800px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+h2 {
+    color:black;
+    font-size: 30px;
+}
+
+h3 {
+    color: black;
+    font-size: 30px;
+}
+
+p {
+    color:black;
+    font-size: 20px;
+}
+
+img {
+    width: 450px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+
+}
+div.image-blog {
+    display: flex;
+    width: 300px;
+    height: auto;
+}
+
+.image-list {
+    text-align: left;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    font-size: 22px;
+}

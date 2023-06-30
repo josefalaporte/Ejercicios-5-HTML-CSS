@@ -1,0 +1,35 @@
+/* Crea una página personal sobre ti. Pueden usar como base el ejercicio del cv en HTML. */
+
+h1 {
+    color: rgb(218, 56, 83);
+    text-align: center;
+    font-size: 70px;
+}
+
+h3 {
+    color:rgb(70, 151, 179);
+    font-size: 30px;
+}
+
+p {
+    color: rgb(30, 62, 80);
+    background-color: rgb(252, 186, 198);
+    font-size: 20px;
+    border-radius: 7px;
+    border: 2px solid black;
+}
+
+li {
+    color: rgb(27, 68, 82);
+    text-align: left;
+    font-size: 20px;
+}
+
+.button {
+    color: black;
+    background-color: rgb(75, 200, 209);
+    padding: 10px 10px;
+    font-size: 20px;
+}
+
+

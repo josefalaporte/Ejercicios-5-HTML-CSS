@@ -1,0 +1,54 @@
+/*Crea una página HTML usando 5 etiquetas diferentes y coloca algún contenido dentro. */
+
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 100px;
+}
+
+p {
+    color: black;
+    font-size: 22px;
+}
+
+.button {
+    color: red;
+    background-color: rgb(241, 227, 227);
+    padding: 10px 10px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+h2 {
+    color: black;
+    text-align: left;
+    font-size: 30px;
+}
+
+li {
+    list-style-type: disc;
+    margin: 5px 0;
+    padding-left: 20px;
+    font-size: 25px;
+}
+
+img {
+    width: 800px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid red;
+    border-radius: 7px;
+}
+
+#myImg {
+    width: 1300px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid red;
+    border-radius: 7px;
+
+}
